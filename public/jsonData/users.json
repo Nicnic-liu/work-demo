@@ -1,0 +1,44 @@
+{
+  "list": [
+    {
+      "id": 1001,
+      "userName": "张三",
+      "userAvatar": "https://wx.qlogo.cn/mmopen/vi_32/ve2q95VsuIsWl8UuojvKKTOpVrF1tDa72yrhrrFIUnSLAskII3f0YvibA9SSby9pnKnSKQC1yea6cXVSDwEasvQ/132",
+      "sex": 1,
+      "country": "中国",
+      "province": "北京",
+      "city": "东城",
+      "createTime": "2019-06-55 21:52:41"
+    },
+    {
+      "id": 1002,
+      "userName": "王五",
+      "userAvatar": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLshOhnP9M3Qfr0ETniaoQCSpRtAV74bLzb9jhuSQdNYR9ahb8jgElr8SswDo5mau8GhKUJYCYWSYg/132",
+      "sex": 0,
+      "country": "中国",
+      "province": "北京",
+      "city": "东城",
+      "createTime": "2019-06-55 21:52:41"
+    },
+    {
+      "id": 1003,
+      "userName": "李四",
+      "userAvatar": "https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83erEicuJv8W5CbzX4rCrJJbq6x6ViaribXMcLib1O35yZKkogHcGJma4YyfUTh51YMaZFg2chQabzAF8Nw/132",
+      "sex": 1,
+      "country": "中国",
+      "province": "北京",
+      "city": "东城",
+      "createTime": "2019-06-55 21:52:41"
+    },
+    {
+      "id": 1004,
+      "userName": "刘无敌",
+      "userAvatar": "https://wx.qlogo.cn/mmopen/vi_32/ooZCPFY1xgB13fTJqdzfyJjxn1s1bJU7RiaicxOVuYiasxrzpBbBwEoQPic2a0SAgy4kz4XUHe8uU1tpULRTc1q9Hg/132",
+      "sex": 1,
+      "country": "中国",
+      "province": "北京",
+      "city": "东城",
+      "createTime": "2019-06-55 21:52:41"
+    }
+  ]
+}

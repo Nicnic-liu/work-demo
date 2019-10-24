@@ -1,0 +1,70 @@
+{
+  "list": {
+    "serverInfo": [
+      {
+        "label": "服务器操作系统",
+        "value": "Linux"
+      },
+      {
+        "label": "Web服务器环境",
+        "value": "nginx/1.15.8"
+      },
+      {
+        "label": "PHP版本",
+        "value": "7.2.13"
+      },
+      {
+        "label": "文件上传限制",
+        "value": "50M"
+      },
+      {
+        "label": "程序运行目录",
+        "value": "/www/wwwroot/yoshop.xany6.com/web/"
+      }
+    ],
+    "phpVersion": [
+      {
+        "option": "PHP版本",
+        "demand": "5.4.0及以上",
+        "status": 1
+      },
+      {
+        "option": "CRUL",
+        "demand": "支持",
+        "status": 1
+      },
+      {
+        "option": "OpenSSL",
+        "demand": "支持",
+        "status": 1
+      },
+      {
+        "option": "PDO",
+        "demand": "支持",
+        "status": 1
+      },
+      {
+        "option": "BCMath",
+        "demand": "支持",
+        "status": 1
+      }
+    ],
+    "contentPermission": [
+      {
+        "label": "文件上传目录",
+        "value": "/www/wwwroot/yoshop.xany6.com/web/uploads/",
+        "status": 1
+      },
+      {
+        "label": "微信支付日志目录",
+        "value": "/www/wwwroot/yoshop.xany6.com/source/application/common/library/wechat/logs/",
+        "status": 1
+      },
+      {
+        "label": "自动任务日志目录",
+        "value": "/www/wwwroot/yoshop.xany6.com/source/application/task/behavior/logs/",
+        "status": 1
+      }
+    ]
+  }
+}

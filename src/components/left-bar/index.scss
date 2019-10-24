@@ -1,0 +1,38 @@
+.el-menu{
+    width: 160px;
+    height: 100%;
+}
+.nav-container{
+    width: auto;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background: #545c64;
+}
+.nav-logo{
+    min-height: 60px;
+    margin-top: 20px;
+    display: flex;
+    // justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: bold;
+    background-size: contain;
+}
+.nav-menus {
+    flex: 1;
+}
+.sidebar-nav-heading {
+
+    height: 50px;
+    width: 150px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #fff;
+
+}
+.sidebar-nav-heading-text{
+    margin-top: 15px;
+    line-height: 55px;
+    margin-left: 17px;
+}

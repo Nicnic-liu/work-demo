@@ -1,0 +1,53 @@
+{
+  "list": [
+    {
+      "id":"1",
+      "sortName": "手机数码",
+      "sortChildren": [
+        {
+          "id": "8",
+          "sortName": "全面屏手机",
+          "rangeNo": "0",
+          "addTime": "2019-06-55 21:52:41"
+        }
+      ],
+      "rangeNo": "0",
+      "addTime": "2019-06-55 21:52:41"
+    },
+    {
+      "id":"2",
+      "sortName": "汽车用品",
+      "sortChildren": [],
+      "rangeNo": "1",
+      "addTime": "2019-06-55 21:52:41"
+    },
+    {
+      "id":"3",
+      "sortName": "男装",
+      "sortChildren": [
+        {
+          "id": "11",
+          "sortName": "上衣",
+          "rangeNo": "1",
+          "addTime": "2019-06-55 21:52:41"
+        }
+      ],
+      "rangeNo": "2",
+      "addTime": "2019-06-55 21:52:41"
+    },
+    {
+      "id":"4",
+      "sortName": "女装",
+      "sortChildren": [
+        {
+          "id": "22",
+          "sortName": "运动裤",
+          "rangeNo": "3",
+          "addTime": "2019-06-55 21:52:41"
+        }
+      ],
+      "rangeNo": "0",
+      "addTime": "2019-06-55 21:52:41"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "list": [
+    {
+      "id":"1",
+      "img" : "https://yoshop.xany6.com/uploads/201806252152412d2318184.jpg",
+      "goodsName": "青岛啤酒（Tsingtao）经典10度500ml*12听 大罐整箱装（新老包装随机发放）",
+      "sortNo": "1",
+      "sortName": "酒水饮料",
+      "saleVolume": "10",
+      "rangeNo": "100",
+      "stateNo": "1",
+      "stateName": "上架",
+      "addTime": "2019-06-55 21:52:41"
+    },
+    {
+      "id":"2",
+      "img" : "https://yoshop.xany6.com/uploads/20180625213807cdb456764.jpg",
+      "goodsName": "绿联 苹果充电器 多口USB手机充电头 3.4A双口快充小米5插头 适用iphone6s/7华为P9安卓ipad平板2a 30636 白",
+      "sortNo": "2",
+      "sortName": "充电器",
+      "saleVolume": "11",
+      "rangeNo": "100",
+      "stateNo": "0",
+      "stateName": "下架",
+      "addTime": "2019-06-55 21:52:42"
+    },
+    {
+      "id":"3",
+      "img" : "https://yoshop.xany6.com/uploads/2018062521343522ae01154.jpg",
+      "goodsName": "摩奇思(mokis)数据线一拖三/三合一 苹果/安卓/Type-C手机充电线/充电器线 1.5米 红金",
+      "sortNo": "3",
+      "sortName": "数据线",
+      "saleVolume": "10",
+      "rangeNo": "100",
+      "stateNo": "1",
+      "stateName": "上架",
+      "addTime": "2019-06-55 21:52:43"
+    },
+    {
+      "id":"4",
+      "img" : "https://yoshop.xany6.com/uploads/201806252125591b7a74171.jpg",
+      "goodsName": "小米(MI) 小米8 游戏手机 黑色 全网通 6G+128G",
+      "sortNo": "4",
+      "sortName": "游戏手机",
+      "saleVolume": "10",
+      "rangeNo": "100",
+      "stateNo": "1",
+      "stateName": "上架",
+      "addTime": "2019-06-55 21:52:44"
+    },
+    {
+      "id":"5",
+      "img" : "https://yoshop.xany6.com/uploads/2018062521181214b991642.jpg",
+      "goodsName": "vivo X21i 全面屏 双摄美颜拍照手机 6GB+64GB 极夜黑 移动联通电信全网通4G手机 双卡双待",
+      "sortNo": "5",
+      "sortName": "全面屏手机",
+      "saleVolume": "10",
+      "rangeNo": "100",
+      "stateNo": "1",
+      "stateName": "上架",
+      "addTime": "2019-06-55 21:52:45"
+    }
+  ]
+}
